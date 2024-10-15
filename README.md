@@ -26,4 +26,4 @@
    
 2. 在SqlCreateTool 类的提示词中的 ‘已知表结构信息‘ 配置自己的表结构信息。
 
-3. nohup main.py &>/dev/null & 启动服务
+3. nohup python3 main.py &>/dev/null & 启动服务
